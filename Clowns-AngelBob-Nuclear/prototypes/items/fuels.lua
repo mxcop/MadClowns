@@ -9,6 +9,7 @@ data:extend(
 		fuel_value = "1.21GJ",
 		fuel_acceleration_multiplier = 2.25,
 		fuel_top_speed_multiplier = 1.2,
+        fuel_emissions_multiplier = 4.0,
 		subgroup = "clowns-nuclear-fuels",
 		order = "a-b",
 		stack_size = 1
@@ -22,6 +23,7 @@ data:extend(
 		fuel_value = "1.21GJ",
 		fuel_acceleration_multiplier = 2.5,
 		fuel_top_speed_multiplier = 1.25,
+        fuel_emissions_multiplier = 3.0,
 		subgroup = "clowns-nuclear-fuels",
 		order = "a-c",
 		stack_size = 1
@@ -33,8 +35,9 @@ data:extend(
 		icon_size = 32,
 		fuel_category = "chemical",
 		fuel_value = "2.5GJ",
-		fuel_acceleration_multiplier = 1,
-		fuel_top_speed_multiplier = 1,
+		fuel_acceleration_multiplier = 2.0,
+		fuel_top_speed_multiplier = 1.1,
+        fuel_emissions_multiplier = 3.0,
 		subgroup = "clowns-nuclear-fuels",
 		order = "b-a",
 		stack_size = 1
@@ -46,8 +49,9 @@ data:extend(
 		icon_size = 32,
 		fuel_category = "chemical",
 		fuel_value = "3.25GJ",
-		fuel_acceleration_multiplier = 1,
-		fuel_top_speed_multiplier = 1,
+		fuel_acceleration_multiplier = 2.25,
+		fuel_top_speed_multiplier = 1.2,
+        fuel_emissions_multiplier = 2.0,
 		subgroup = "clowns-nuclear-fuels",
 		order = "b-b",
 		stack_size = 1
@@ -59,8 +63,9 @@ data:extend(
 		icon_size = 32,
 		fuel_category = "chemical",
 		fuel_value = "4GJ",
-		fuel_acceleration_multiplier = 1,
-		fuel_top_speed_multiplier = 1,
+		fuel_acceleration_multiplier = 2.5,
+		fuel_top_speed_multiplier = 1.3,
+        fuel_emissions_multiplier = 1.0,
 		subgroup = "clowns-nuclear-fuels",
 		order = "b-c",
 		stack_size = 1
